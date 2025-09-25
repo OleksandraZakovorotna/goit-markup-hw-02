@@ -95,7 +95,7 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.02em;
 }
 
-.benefit-title {
+.info-title {
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -103,10 +103,12 @@ font-weight: 500;
     color: #2e2f42;
 }
 
-.benefit-text {
-font-size: 16px;
+.info-text {
+font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .team-header {
